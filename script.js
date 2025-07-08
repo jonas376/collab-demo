@@ -4,3 +4,4 @@ const greeting = document.getElementById('greeting');
 btn.addEventListener('click', () => {
   greeting.textContent = 'Hello, world!';
 });
+
