@@ -7,5 +7,5 @@ btn.addEventListener('click', () => {
 
 const resetBtn = document.getElementById('resetBtn');
 resetBtn.addEventListener('click', () => {
-greeting.textContent = 'Welcome!';
+greeting.textContent = 'Jack Jack';
 });
